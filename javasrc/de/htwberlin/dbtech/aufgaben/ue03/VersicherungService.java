@@ -218,6 +218,4 @@ public class VersicherungService implements IVersicherungService {
             throw new DataException(e.getMessage());
         }
     }
-
-
 }
